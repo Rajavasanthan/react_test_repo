@@ -17,13 +17,13 @@ export default function Card(props){
                       }
 
                     </ul>
-                    <a className="btn btn-block btn-primary text-uppercase myButton" onClick={() => {
+                    <button className="btn btn-block btn-primary text-uppercase myButton" onClick={() => {
                       console.log("djsd")
                       console.log("djsd")
                       console.log("djsd")
                       console.log("djsd")
                       props.handleButtonClick()
-                    }}>Button</a>
+                    }}>Button</button>
           </div>
                 </div>
               </div>
