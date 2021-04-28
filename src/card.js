@@ -17,7 +17,7 @@ export default function Card(props){
                       }
 
                     </ul>
-                    <a href="#" className="btn btn-block btn-primary text-uppercase myButton" onClick={() => {
+                    <a className="btn btn-block btn-primary text-uppercase myButton" onClick={() => {
                       console.log("djsd")
                       console.log("djsd")
                       console.log("djsd")
